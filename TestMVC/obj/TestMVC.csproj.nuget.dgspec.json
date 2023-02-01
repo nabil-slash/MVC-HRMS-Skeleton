@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\C# docs\\TestMVC\\TestMVC\\TestMVC.csproj": {}
+    "G:\\C# docs\\MVC-HRMS-Skeleton\\TestMVC\\TestMVC.csproj": {}
   },
   "projects": {
-    "G:\\C# docs\\TestMVC\\TestMVC\\TestMVC.csproj": {
+    "G:\\C# docs\\MVC-HRMS-Skeleton\\TestMVC\\TestMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\C# docs\\TestMVC\\TestMVC\\TestMVC.csproj",
+        "projectUniqueName": "G:\\C# docs\\MVC-HRMS-Skeleton\\TestMVC\\TestMVC.csproj",
         "projectName": "TestMVC",
-        "projectPath": "G:\\C# docs\\TestMVC\\TestMVC\\TestMVC.csproj",
+        "projectPath": "G:\\C# docs\\MVC-HRMS-Skeleton\\TestMVC\\TestMVC.csproj",
         "packagesPath": "C:\\Users\\Nabil Ahmed\\.nuget\\packages\\",
-        "outputPath": "G:\\C# docs\\TestMVC\\TestMVC\\obj\\",
+        "outputPath": "G:\\C# docs\\MVC-HRMS-Skeleton\\TestMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nabil Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
